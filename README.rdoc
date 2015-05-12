@@ -1,5 +1,9 @@
-== CustomStoreProject
+= CustomStoreProject
 
-=Stack
+===Stack
 
-=Rails On Windows 7
+In this project we are using ruby on rails, mysql for the database and for the front end we will use BackBone.js
+
+===Rails On Windows 7
+
+Configuration and enviorement has been set for a windows 7 operating system
