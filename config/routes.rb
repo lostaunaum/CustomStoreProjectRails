@@ -1,4 +1,32 @@
 Rails.application.routes.draw do
+  get 'customers/new'
+
+  get 'customers/create'
+
+  get 'customers/update'
+
+  get 'customers/edit'
+
+  get 'customers/destroy'
+
+  get 'customers/index'
+
+  get 'customers/show'
+
+  get 'orders/new'
+
+  get 'orders/create'
+
+  get 'orders/update'
+
+  get 'orders/edit'
+
+  get 'orders/destroy'
+
+  get 'orders/index'
+
+  get 'orders/show'
+
   resources :users
   resources :users
   # The priority is based upon order of creation: first created -> highest priority.

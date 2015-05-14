@@ -2,7 +2,7 @@
 
 ===Stack
 
-In this project we are using ruby on rails, mysql for the database and for the front end we will use BackBone.js
+In this project we are using ruby on rails, mysql for the database and for the front end we will use React.JS
 
 ===Rails On Windows 7
 
